@@ -2,7 +2,7 @@ package ch1_arrays_and_strings;
 
 import java.util.HashMap;
 
-public class isPermutation {
+public class IsPermutation {
 
     private static boolean isAnagram(String str1, String str2) {
         if (str1.length() != str2.length()) {

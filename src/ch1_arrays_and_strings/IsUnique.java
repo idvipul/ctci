@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class isUnique {
+public class IsUnique {
 
     // using additional ds
     private static boolean isUniqueChars(String str) {

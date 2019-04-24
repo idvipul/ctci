@@ -5,8 +5,8 @@ class Node {
     int data;
     Node left, right;
 
-    Node(int d) {
-        data = d;
+    Node(int data) {
+        this.data = data;
         left = right = null;
     }
 }
